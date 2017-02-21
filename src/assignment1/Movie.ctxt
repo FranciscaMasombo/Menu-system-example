@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=title\ runningTime\ summary\ director
+comment0.target=Movie(javax.swing.JTextField,\ javax.swing.JTextField,\ javax.swing.JTextField,\ javax.swing.JTextField)
+comment1.params=title\ runningTime\ summary\ director
+comment1.target=Movie(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=int\ getRunningTime()
+comment5.params=runningTime
+comment5.target=void\ setRunningTime(int)
+comment6.params=
+comment6.target=java.lang.String\ getSummary()
+comment7.params=summary
+comment7.target=void\ setSummary(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDirector()
+comment9.params=director
+comment9.target=void\ setDirector(java.lang.String)
+numComments=12

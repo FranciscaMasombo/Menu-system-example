@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ menuMain()
+comment0.text=\r\n\ //for\ (Movie\ x\ \:\ movieList)\ //System.out.println(x);\r\n\ //System.out.println("You\ have\ added\ "+movieList.size()\r\n\ +"\ to\ the\ Cinema\ app\!");\ //JOptionPane.showMessageDialog(null,\r\n\ movieList);\r\n\ \r\n\ }\r\n
+comment1.params=
+comment1.target=void\ addMovie()
+comment2.params=aMovie
+comment2.target=void\ addMovieToList(Movie)
+comment3.params=
+comment3.target=void\ showSpecificMovie()
+comment4.params=
+comment4.target=void\ removeSpecificMovie()
+comment5.params=
+comment5.target=void\ showAllMovies()
+numComments=6
